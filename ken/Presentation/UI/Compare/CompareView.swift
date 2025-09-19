@@ -2,7 +2,7 @@
 //  CompareView.swift
 //  ken
 //
-//  Created by Lakshay Gupta on 03/05/25.
+//  Created by kartikay on 03/05/25.
 //
 import SwiftUI
 import Foundation

@@ -2,13 +2,13 @@
 //  ContentView.swift
 //  ken
 //
-//  Created by Lakshay Gupta on 25/04/25.
+//  Created by kartikay on 25/04/25.
 //
 //
 //  ContentView.swift
 //  ken
 //
-//  Created by Lakshay Gupta on 25/04/25.
+//  Created by kartikay on 25/04/25.
 //
 
 import SwiftUI

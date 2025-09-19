@@ -2,7 +2,7 @@
 //  LeetCode.swift
 //  ken
 //
-//  Created by Lakshay Gupta on 30/04/25.
+//  Created by kartikay on 30/04/25.
 //
 
 import Combine

@@ -2,7 +2,7 @@
 //  ContributionGridView.swift
 //  ken
 //
-//  Created by Lakshay Gupta on 21/02/25.
+//  Created by kartikay on 21/02/25.
 //
 
 import SwiftUI

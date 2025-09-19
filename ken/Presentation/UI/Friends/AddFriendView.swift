@@ -2,14 +2,14 @@
 //  AddFriendView.swift
 //  ken
 //
-//  Created by Lakshay Gupta on 04/05/25.
+//  Created by kartikay on 04/05/25.
 //
 import SwiftUI
 //
 //  AddFriendView.swift
 //  ken
 //
-//  Created by Lakshay Gupta on 04/05/25.
+//  Created by kartikay on 04/05/25.
 //
 import SwiftUI
 

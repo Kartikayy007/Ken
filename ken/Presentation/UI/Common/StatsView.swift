@@ -2,7 +2,7 @@
 //  StatsView.swift
 //  ken
 //
-//  Created by Lakshay Gupta on 31/01/25.
+//  Created by kartikay on 31/01/25.
 //
 import SwiftUI
 import Combine

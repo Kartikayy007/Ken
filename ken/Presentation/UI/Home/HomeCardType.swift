@@ -2,7 +2,7 @@
 //  HomeCardType.swift
 //  ken
 //
-//  Created by Lakshay Gupta on 20/05/25.
+//  Created by kartikay on 20/05/25.
 //
 import SwiftUI
 

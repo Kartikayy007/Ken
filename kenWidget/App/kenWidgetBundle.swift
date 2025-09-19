@@ -2,7 +2,7 @@
 //  kenWidgetBundle.swift
 //  kenWidget
 //
-//  Created by Lakshay Gupta on 31/01/25.
+//  Created by kartikay on 31/01/25.
 //
 
 import WidgetKit
